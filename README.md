@@ -3,7 +3,7 @@
 
 Asks the user to input name, email, and birthday. Generates appropriate response.
 
-_Note: The "hello2-Orig" project was the project I was supplied that needed to be modified.  The result being the "hello2" project._
+_Note: The "hello2-Orig" project was the project I was supplied that needed to be modified.  The result being the "hello2" project. A changelog is in "William Crutchfield - Project 2.pdf"._
 
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
